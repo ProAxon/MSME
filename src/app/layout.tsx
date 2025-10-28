@@ -6,10 +6,10 @@ import Layout from '@/components/Layout'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Ashley - Creative Agency',
-  description: 'Pioneering Creative Excellence - A modern creative agency focused on design and development',
-  keywords: 'creative agency, design, development, branding, web design',
-  authors: [{ name: 'Ashley Creative Agency' }],
+  title: 'MSME - Industrial Digital Agency',
+  description: 'Empowering Industrial India Digitally.',
+  keywords: 'Industrial Digital Agency, Supporting MSMEs, development, branding, web design',
+  authors: [{ name: 'MSME Agency' }],
 }
 
 export const viewport = {
