@@ -1,0 +1,16 @@
+/* External CSS imports for Ashley Creative Agency */
+
+/* Bootstrap Grid */
+@import './plugins/bootstrap-grid.css';
+
+/* Font Awesome */
+@import './plugins/font-awesome.min.css';
+
+/* Swiper */
+@import './plugins/swiper.min.css';
+
+/* Fancybox */
+@import './plugins/fancybox.min.css';
+
+/* Main Styles */
+@import './style.css';
